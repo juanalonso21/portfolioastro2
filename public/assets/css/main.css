@@ -58,6 +58,9 @@ body {
   background: var(--background);
   font-family: var(--default-font);
 }
+.text-justify {
+  text-align: justify;
+}
 
 a {
   color: var(--accent-color);
