@@ -699,7 +699,12 @@ section,
   color: var(--accent-color);
   line-height: 0;
 }
+@media (max-width: 768px) {
+  .about  {
+    padding: 10px 10px;
+  }
 
+}
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
